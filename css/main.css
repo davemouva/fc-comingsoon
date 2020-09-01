@@ -1,0 +1,31 @@
+html {
+    height: 100vh;
+}
+
+body {
+    /* background-color: #343434; */
+    margin: 0;
+    color: #f2f2f4;
+    background: #343434;
+    background: radial-gradient(circle at 100% 100%, #FEAE44, #AD7E3E 23%, #574631 55%, #403930 81%, #343434) no-repeat;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fc-icon {
+    width: 300px;
+}
+
+h6 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.375rem;
+    font-weight: 400;
+    margin: 0 0 20px 0;
+}
+
+.text-container {
+    margin-bottom: 100px;
+    text-align: center;
+}
